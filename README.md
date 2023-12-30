@@ -1,16 +1,14 @@
-### Hi there 👋
+### hey there
+---
 
-<!--
-**dthree/dthree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the Co-Founder & CTO at MindCloud, a rapidly growing B2B startup in the integration space. I've been writing production software for 16 years with an emphasis on designing and building data-heavy platforms from the ground up.
 
-Here are some ideas to get you started:
+You can follow me on [Twitter](https://x.com/dc3dev).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I had fun building some original OSS projects in the past for the Node community:
+
+- [Vorpal](https://github.com/dthree/vorpal) - Interactive CLI framework for Node
+- [Cash](https://github.com/dthree/cash) - Cross-platform unix coreutils in Javascript
+- [Vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps
