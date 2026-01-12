@@ -1,7 +1,7 @@
 ### hey there
 ---
 
-I'm the Co-Founder & CTO at MindCloud, a rapidly growing B2B startup in the integration space. I've been writing production software for 16 years with an emphasis on designing and building data-heavy platforms from the ground up.
+I'm the Co-Founder & CTO at MindCloud, a rapidly growing B2B startup in the integration space. I've been writing production software for 18 years with an emphasis on designing and building data-heavy platforms from the ground up.
 
 You can follow me on [Twitter](https://x.com/devdcdev).
 
